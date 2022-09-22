@@ -1,2 +1,2 @@
 # Challenge-1
-First class challenge
+##Refractoring Html to semantic format. Updating CSS to reflect updated code and format.
